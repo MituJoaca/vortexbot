@@ -77,7 +77,8 @@ No_User: "Please provide a valid user."
 User_Is_Staff: "You can not punish a staff member."
 User_Is_CoreBot: "How dare you try and ban me. I do not approve of this!"
 User_Is_Yourself: "You can not punish yourself."
-Join_Message: ", welcome to the server!"
+Join_Message: ", welcome to the server! Want to stay in touch? Click the links below for more updates and videos!
+**Website**: http://vortex-rip.rf.gd""
 Leave_Message: ", has left the server!"
 No_Message_To_Say: "Please provide text for the bot to say!"
 #^^ For the say command ^^
