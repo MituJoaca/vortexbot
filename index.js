@@ -210,4 +210,4 @@ bot.on("message", async message => {
 })
 });
 
-bot.login(token.Token);
+bot.login(process.env.BOT_TOKEN);
