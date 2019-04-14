@@ -111,6 +111,7 @@ bot.on("guildMemberAdd", async member => {
 //Leave Message
 bot.on("guildMemberRemove", async member => {
   const config = await yml("./config.yml");
+  let sicon = message.author.displayAvatarURL
   let color = config.Color;
   let channel = member.guild.channels.find(`name`, "welcome");
   let embed = new Discord.RichEmbed()
